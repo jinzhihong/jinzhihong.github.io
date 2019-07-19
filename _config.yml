@@ -1,7 +1,7 @@
 # Site settings
 title: jinzhihong Blog  #博客标题
 SEOTitle: jinzhihong Blog | BY Blog  #显示在浏览器上搜索的时候显示的标题
-header-img: img/post-bg-desk.jpg  #显示在首页的背景图片
+header-img: img/home-bg-art.jpg  #显示在首页的背景图片
 email: 1961715@qq.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 金志宏的博客, jinzhihong, 金志宏, java, Spring, SOA, Mysql, 分布式"
