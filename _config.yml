@@ -23,7 +23,7 @@ RSS: false
 github_username:    jinzhihong
 #facebook_username:  jinzhihong
 #jianshu_username:   jianshuid
-#twitter_username:   qiubaiying
+#twitter_username:   jinzhihong
 
 
 
@@ -56,14 +56,12 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: d156f603be8574a57573                            #生成的clientID
+  clientSecret: 61b87181a6da95fd40265cbcea9eb3b75775fca5    #生成的clientSecret
   repo: jinzhihong.github.io    #仓库名称
   owner: jinzhihong    #github用户名
   admin: jinzhihong
@@ -99,16 +97,7 @@ service-worker: true
 # Friends
 friends: [
 {
-  title: "WY",
-  href: "http://zhengwuyang.com"
-},{
-  title: "简书·BY",
-  href: "http://www.jianshu.com/u/e71990ada2fd"
-},{
-  title: "Apple",
-  href: "https://apple.com"
-},{
-  title: "Apple Developer",
-  href: "https://developer.apple.com/"
+  title: "ZH BLOG",
+  href: "http://jinzhihong.github.io"
 }
 ]
