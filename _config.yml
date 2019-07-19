@@ -1,10 +1,10 @@
 # Site settings
-title: jinzhihong Blog  #博客标题
-SEOTitle: jinzhihong Blog | BY Blog  #显示在浏览器上搜索的时候显示的标题
+title: ZH Blog  #博客标题
+SEOTitle: ZH Blog | ZH Blog  #显示在浏览器上搜索的时候显示的标题
 header-img: img/home-bg-art.jpg  #显示在首页的背景图片
 email: 1961715@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 金志宏的博客, jinzhihong, 金志宏, java, Spring, SOA, Mysql, 分布式"
+keyword: "ZH, ZH Blog, 金志宏的博客, jinzhihong, 金志宏, java, Spring, SOA, Mysql, 分布式"
 url: "http://jinzhihong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jinzhihong/jinzhihong.github.io.git" # you code repository
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: jinzhihong.github.io    #仓库名称
+  owner: jinzhihong    #github用户名
+  admin: jinzhihong
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
