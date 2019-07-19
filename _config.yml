@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+title: jinzhihong Blog  #博客标题
+SEOTitle: jinzhihong Blog | BY Blog  #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-desk.jpg  #显示在首页的背景图片
+email: 1961715@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+keyword: "BY, BY Blog, 金志宏的博客, jinzhihong, 金志宏, java, Spring, SOA, Mysql, 分布式"
+url: "http://jinzhihong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/jinzhihong/jinzhihong.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -98,17 +98,17 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+{
+  title: "WY",
+  href: "http://zhengwuyang.com"
+},{
+  title: "简书·BY",
+  href: "http://www.jianshu.com/u/e71990ada2fd"
+},{
+  title: "Apple",
+  href: "https://apple.com"
+},{
+  title: "Apple Developer",
+  href: "https://developer.apple.com/"
+}
 ]
