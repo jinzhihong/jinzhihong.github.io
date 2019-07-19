@@ -3,7 +3,7 @@ title: ZH Blog  #博客标题
 SEOTitle: ZH Blog | ZH Blog  #显示在浏览器上搜索的时候显示的标题
 header-img: img/home-bg-art.jpg  #显示在首页的背景图片
 email: 1961715@qq.com
-description: "Every failure is leading towards success."
+description: "合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下."
 keyword: "ZH, ZH Blog, 金志宏的博客, jinzhihong, 金志宏, java, Spring, SOA, Mysql, 分布式"
 url: "http://jinzhihong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
