@@ -1,17 +1,17 @@
 # Site settings
-title: ZH Blog  #博客标题
-SEOTitle: ZH Blog | ZH Blog  #显示在浏览器上搜索的时候显示的标题
+title: 金志宏的黑洞博客  #博客标题
+SEOTitle: 金志宏 黑洞博客 | 金志宏 黑洞博客  #显示在浏览器上搜索的时候显示的标题
 header-img: img/home-bg-art.jpg  #显示在首页的背景图片
 email: 1961715@qq.com
 description: "合抱之木，生于毫末；九层之台，起于累土；千里之行，始于足下."
-keyword: "ZH, ZH Blog, 金志宏的博客, jinzhihong, 金志宏, java, Spring, SOA, Mysql, 分布式"
+keyword: "JZH, JZH Blog, 金志宏的博客, jinzhihong, 金志宏, java, Spring, SOA, Mysql, 分布式"
 url: "http://jinzhihong.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jinzhihong/jinzhihong.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "对于程序员来说，最好的老师是-问题"
 sidebar-avatar: /img/jzh_tx.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -97,7 +97,7 @@ service-worker: true
 # Friends
 friends: [
 {
-  title: "ZH BLOG",
-  href: "http://jinzhihong.github.io"
+  title: "黑洞博客",
+  href: "https://jinzhihong.github.io"
 }
 ]
