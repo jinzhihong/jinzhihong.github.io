@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Spring Cloud Hystrix 断路器学习
-subtitle:   Spring Cloud Hystrix 断路器学习
+title:      Spring Cloud Hystrix 学习和部分原理
+subtitle:   Spring Cloud Hystrix 学习和部分原理
 date:       2019-08-06
 author:     金志宏
 header-img: img/post-bg-hacker.jpg
